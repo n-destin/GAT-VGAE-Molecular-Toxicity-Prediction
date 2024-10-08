@@ -9,4 +9,4 @@ We examine and compare the effectiveness of two attention-based GNNs, the Graph 
 ClinTox and Tox21 datasets respectively. Pre-training additionally does not have a significant effect on global accuracy in either classification task. However, the decrease in performance from pre-training on the GAT may be due to computa- tional limitations which limit the number of training steps which we could conduct.
 
 
-Link to the paper[https://drive.google.com/file/d/16iY5Yt4OG3UZ39qk85ci-eF00G-QF1o0/view?usp=sharing]
+[Link to the paper](https://drive.google.com/file/d/16iY5Yt4OG3UZ39qk85ci-eF00G-QF1o0/view?usp=sharing)
